@@ -1,0 +1,20 @@
+# Redirects from what the browser requests to what we serve
+
+# Nothing shows here, just redirect to main.
+# /home              /
+# /blog/my-post.php  /blog/my-post
+# /news              /blog
+
+
+# Site links ----------------------------------------
+# /post              /posts
+# /category          /categories
+# /tag               /tags
+# /doc               /docs
+# /updates            /updates.html
+# /research           /research.html
+
+
+# Shortlinks ----------------------------------------
+/updates-2023-07-15 /updates.html#2023-07-15
+
