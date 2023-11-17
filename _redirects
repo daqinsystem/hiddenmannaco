@@ -11,10 +11,10 @@
 # /category          /categories
 # /tag               /tags
 # /doc               /docs
-# /updates            /updates.html
-# /research           /research.html
+# /updates           /updates.html
+# /research          /research.html
 
 
-# Shortlinks ----------------------------------------
-/updates-2023-07-15 /updates.html#2023-07-15
+# Short links ---------------------------------------
+# /short              /long.link
 
