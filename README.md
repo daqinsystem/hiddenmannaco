@@ -1,13 +1,17 @@
-# hiddenmannaco
-Hidden Manna Co.'s website
+# *Hidden Manna Co.*'s website
+- GitHub repository: [daqinsystem/hiddenmannaco](https://github.com/daqinsystem/hiddenmannaco)
+- Hosted and deployed *(free)*: [Github Pages](https://pages.github.com) and [Cloudflare Pages](https://pages.cloudflare.com)
+- Subdomains *(free)*:
+	- `daqinsystem.github.io/hiddenmannaco` by [Github Pages](https://pages.github.com)
+	- `hmco.pages.dev` by [Cloudflare Pages](https://pages.cloudflare.com)
+	- `hmc.k.vu` by [FreeDNS](https://freedns.afraid.org) *(main)*
 
 ## Versions
-1. [first version](https://v1.hmco.pages.dev) *- [v1 branch](https://github.com/daqinsystem/hiddenmannaco/tree/v1)*
-	- Template: [**Responsiva**](https://free-css.com/free-css-templates/page158/responsiva) by [Dzyngiri](http://www.dzyngiri.com/)
-2. [second version](https://hmco.pages.dev) *- [main branch](https://github.com/daqinsystem/hiddenmannaco/tree/main)*
+1. [first version](https://hidden-manna-company.pages.dev) - manually deployed on [Cloudflare Pages](https://pages.cloudflare.com)
+	- Template: [**Responsiva**](https://free-css.com/free-css-templates/page158/responsiva) by [Dzyngiri](http://www.dzyngiri.com)
+2. [v1](https://v1.hmco.pages.dev) *([branch](https://github.com/daqinsystem/hiddenmannaco/tree/v1))* - same template/theme with the first version but has more modifications in content
+3. [current](https://hmc.k.vu) *(deployed on [Github Pages](https://pages.github.com))* and second version  *- [main branch](https://github.com/daqinsystem/hiddenmannaco/tree/main)*
 	- Template: **Responsive Online Coffee Shop Website** by [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas)
-3. [current version](https://hmc.k.vu) *(deployed on github-pages)*
 
-## Favicon Package
-This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16).
-*Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
+## Citations
+- Favicon Package: Package generated with [RealFaviconGenerator](https://realfavicongenerator.net/)
